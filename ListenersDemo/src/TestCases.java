@@ -17,7 +17,7 @@ import org.testng.annotations.Test;
 public class TestCases {
 
 	 static WebDriver driver = new FirefoxDriver();
-
+	 // This is the code changes and I'll do second commit to github to check how it appears on github
 	
 	String RESULT_FILENAME = "D:/Ganesh/screen.jpg";
 //	String RESULT_FILENAME;
